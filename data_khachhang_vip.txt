@@ -1,0 +1,42 @@
+ID: NVH123
+Ho va ten: NGUYEN VAN HIEU
+So dien thoai: 0388854565
+Ngay sinh: 20
+Thang: 2
+Nam: 2003
+Ngay tham gia: 20
+Thang: 2
+Nam: 2020
+Diem tich luy: 100
+Phan tram giam gia: 10
+Ngay: 11
+Thang: 4
+Nam: 2024
+ID: NNH
+Ho va ten: NGUYEN NHAT HUY
+So dien thoai: 0388854566
+Ngay sinh: 1
+Thang: 1
+Nam: 2003
+Ngay tham gia: 20
+Thang: 10
+Nam: 2022
+Diem tich luy: 150
+Phan tram giam gia: 7
+Ngay: 11
+Thang: 4
+Nam: 2024
+ID: NVH123
+Ho va ten: DANH CHI HIEN
+So dien thoai: 0388856789
+Ngay sinh: 2
+Thang: 11
+Nam: 2003
+Ngay tham gia: 21
+Thang: 2
+Nam: 2020
+Diem tich luy: 10
+Phan tram giam gia: 15
+Ngay: 11
+Thang: 4
+Nam: 2024

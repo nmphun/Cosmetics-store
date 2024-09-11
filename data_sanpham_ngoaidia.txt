@@ -1,0 +1,90 @@
+Ma hang: VNSRM2
+Ten hang: SUA RUA MAT
+Cong dung: SACH DAU MAT
+Tri gia: 400.55
+So luong: 50
+Ngay: 10
+Thang: 10
+Nam: 2024
+Thue nhap khau: 10
+Nguon goc: MY
+Ma hang: VNSMP1
+Ten hang: KEM DUONG DA
+Cong dung: NUOI DUONG DA
+Tri gia: 250.75
+So luong: 28
+Ngay: 15
+Thang: 10
+Nam: 2024
+Thue nhap khau: 5
+Nguon goc: MY
+Ma hang: VNSMP2
+Ten hang: SON MOI
+Cong dung: LAM MOI MONG
+Tri gia: 150.25
+So luong: 17
+Ngay: 20
+Thang: 10
+Nam: 2024
+Thue nhap khau: 3
+Nguon goc: MY
+Ma hang: VNSMP3
+Ten hang: PHAN PHU
+Cong dung: CHE KHUYET DIEM
+Tri gia: 180.5
+So luong: 40
+Ngay: 25
+Thang: 10
+Nam: 2024
+Thue nhap khau: 7
+Nguon goc: MY
+Ma hang: VNSMP4
+Ten hang: KEM LOT
+Cong dung: LAM MOI DA
+Tri gia: 300
+So luong: 25
+Ngay: 30
+Thang: 10
+Nam: 2024
+Thue nhap khau: 8
+Nguon goc: PHAP
+Ma hang: VNSMP5
+Ten hang: MASCARA
+Cong dung: LAM DAI MI
+Tri gia: 120.5
+So luong: 35
+Ngay: 5
+Thang: 11
+Nam: 2024
+Thue nhap khau: 4
+Nguon goc: HAN QUOC
+Ma hang: VNSMP6
+Ten hang: PHAN MAT
+Cong dung: TAO KIEU MAT
+Tri gia: 20000.75
+So luong: 15
+Ngay: 10
+Thang: 11
+Nam: 2024
+Thue nhap khau: 6
+Nguon goc: TRUNG QUOC
+Ma hang: VNSMP7
+Ten hang: SON PHA LE
+Cong dung: LAM MOI MONG
+Tri gia: 180000.25
+So luong: 3
+Ngay: 15
+Thang: 11
+Nam: 2024
+Thue nhap khau: 5
+Nguon goc: ITALY
+Ma hang: MPN12
+Ten hang: KEM DUONG
+Cong dung: GIU AM DA
+Tri gia: 999000
+So luong: 22
+Ngay: 3
+Thang: 2
+Nam: 2024
+Thue nhap khau: 5
+Nguon goc: CHINA

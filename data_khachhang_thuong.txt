@@ -1,0 +1,27 @@
+Ho va ten: NGUYEN HOANG NHAN
+So dien thoai: 0388854673
+Ngay sinh: 20
+Thang: 3
+Nam: 2003
+Diem tich luy: 20
+Ngay: 8
+Thang: 8
+Nam: 2024
+Ho va ten: NGUYEN VAN HIEU
+So dien thoai: 0123456789
+Ngay sinh: 10
+Thang: 5
+Nam: 1990
+Diem tich luy: 168
+Ngay: 15
+Thang: 9
+Nam: 2022
+Ho va ten: NGUYEN THI HUY
+So dien thoai: 0987654321
+Ngay sinh: 5
+Thang: 12
+Nam: 1985
+Diem tich luy: 30
+Ngay: 10
+Thang: 10
+Nam: 2023

@@ -1,0 +1,24 @@
+Ma hang: VNDMN23
+Ten hang: SON MOI
+Cong dung: LAM MONG MIENG
+Tri gia: 150000
+So luong: 60
+Ngay: 15
+Thang: 3
+Nam: 2024
+Ma hang: VNDMN24
+Ten hang: KEM DUONG DA
+Cong dung: GIU AM DA
+Tri gia: 250000
+So luong: 60
+Ngay: 10
+Thang: 4
+Nam: 2024
+Ma hang: KHBC123
+Ten hang: DAU GOI
+Cong dung: SACH DA DAU
+Tri gia: 76000
+So luong: 80
+Ngay: 4
+Thang: 2
+Nam: 2023

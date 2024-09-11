@@ -1,0 +1,24 @@
+Ma nhan vien: CTQ104
+Ho va ten: NGUYEN VAN CA
+So dien thoai: 0356453334
+Chuc vu: SEP
+Ngay sinh: 20
+Thang: 9
+Nam: 2003
+Noi o: PHU YEN
+Ngay tham gia: 20
+Thang: 2
+Nam: 2025
+Luong: 2500000
+Ma nhan vien: ABC123
+Ho va ten: NGUYEN THI AN
+So dien thoai: 0987654321
+Chuc vu: NHAN VIEN
+Ngay sinh: 15
+Thang: 7
+Nam: 1990
+Noi o: HA NOI
+Ngay tham gia: 10
+Thang: 3
+Nam: 2010
+Luong: 2300000
